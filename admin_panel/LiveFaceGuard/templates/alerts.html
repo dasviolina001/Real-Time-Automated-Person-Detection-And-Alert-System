@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alerts</title>
+</head>
+<body>
+    <h1>Active Alerts</h1>
+    <ul>
+        {% for alert in alerts %}
+            <li>{{ alert.person.name }} detected at {{ alert.location }} on {{ alert.timestamp }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
