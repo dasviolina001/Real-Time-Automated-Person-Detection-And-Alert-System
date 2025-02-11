@@ -1,5 +1,5 @@
-Real-Time Automated Person Detection and Alert System 
-📌 Overview  
+**Real-Time Automated Person Detection and Alert System** 
+📌 **Overview**  
 This project is designed to assist law enforcement agencies in identifying missing and wanted persons using real-time CCTV surveillance and AI-based facial recognition. The system automates person detection and sends instant alerts to nearby police stations when a match is found.  
 
 🛠️ Features  
